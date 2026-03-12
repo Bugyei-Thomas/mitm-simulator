@@ -1,6 +1,6 @@
 # Installation
 ```
-git clone https://github.com/Bugyei-Thomas/mitm-simulator
+git clone https://github.com/s4wbvnny/mitm-simulator
 cd mitm-simulator
 sudo pip3 install mitmproxy
 ```
