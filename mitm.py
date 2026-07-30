@@ -1,8 +1,6 @@
-import os
 import subprocess
 import scapy.all as scapy
 import time
-import mitmproxy
 
 # Network scanner
 def scan_the_network(interface):
